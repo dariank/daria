@@ -7,7 +7,7 @@
 
 <h2><img src="https://img.shields.io/badge/-f2cdcd?style=flat-square&logo=sparkles&logoColor=4a4a4a" height="24" valign="middle"/> About me</h2>
 
-Собираю опыт в разработке и делаю проекты — от веба до мобильных приложений. Люблю понятные интерфейсы и спокойные цвета. Сейчас пробую себя в разных направлениях, чтобы найти то, что по-настоящему зацепит.
+Совершенствую опыт в разработке, делаю проекты от веба до мобильных приложений. Люблю понятные интерфейсы и спокойные цвета. Имею профессиональное образование программиста (колледж) и реальный опыт программирования. Каждый день совершенствую свои навыки, продолжая обучение в ВУЗе. Сейчас пробую себя в разных направлениях, чтобы найти то, что по-настоящему зацепит.
 
 ---
 
@@ -15,19 +15,18 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-cba6f7?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-bac2de?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-f5c2e7?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-a6e3a1?style=flat-square&logo=css3&logoColor=4a4a4a"/>
-<img src="https://img.shields.io/badge/JavaScript-f9e2af?style=flat-square&logo=javascript&logoColor=4a4a4a"/>
-<img src="https://img.shields.io/badge/Java-eba0ac?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-f2cdcd?style=flat-square&logo=android&logoColor=4a4a4a"/>
-<img src="https://img.shields.io/badge/1C-f5e0dc?style=flat-square&logo=1c&logoColor=4a4a4a"/>
+<img src="https://shieldcn.dev/badge/PHP-cba6f7?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://shieldcn.dev/badge/Python-bac2de?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://shieldcn.dev/badge/HTML5-f5c2e7?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://shieldcn.dev/badge/CSS3-a6e3a1?style=flat-square&logo=css3&logoColor=4a4a4a"/>
+<img src="https://shieldcn.dev/badge/JavaScript-f9e2af?style=flat-square&logo=javascript&logoColor=4a4a4a"/>
+<img src="https://shieldcn.dev/badge/Java-eba0ac?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://shieldcn.dev/badge/Android-f2cdcd?style=flat-square&logo=android&logoColor=4a4a4a"/>
+<img src="https://shieldcn.dev/badge/1C-f5e0dc?style=flat-square&logo=1c&logoColor=4a4a4a"/>
 
 </div>
 
 ---
-
 <h2><img src="https://img.shields.io/badge/-bac2de?style=flat-square&logo=files&logoColor=white" height="24" valign="middle"/> My Projects</h2>
 
 <div align="center">
@@ -36,18 +35,18 @@
   <tr>
     <td width="50%" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/🌐_Web_Sites-cba6f7?style=for-the-badge&logoColor=white" height="35" />
+      <img src="https://shieldcn.dev/badge/WEB%20DEV-cba6f7?style=for-the-badge&logo=html5&logoColor=white" height="45" />
       <br/><br/>
-      <i>Создание адаптивных сайтов и веб-приложений.</i>
+      <i>Адаптивные сайты и веб-приложения.</i>
       <br/><br/>
       <b>Стек:</b> <code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JS</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/☕_Java_Apps-eba0ac?style=for-the-badge&logoColor=white" height="35" />
+      <img src="https://shieldcn.dev/badge/JAVA%20APPS-eba0ac?style=for-the-badge&logo=openjdk&logoColor=white" height="45" />
       <br/><br/>
-      <i>Разработка десктопных приложений и backend-логики на языке Java.</i>
+      <i>Десктопные приложения и backend-логика.</i>
       <br/><br/>
       <b>Стек:</b> <code>Java</code> <code>ООП</code> <code>JavaFX</code>
       <br/><br/>
@@ -56,18 +55,18 @@
   <tr>
     <td width="50%" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/📱_Android_Dev-f5c2e7?style=for-the-badge&logoColor=white" height="35" />
+      <img src="https://shieldcn.dev/badge/ANDROID%20DEV-f5c2e7?style=for-the-badge&logo=android&logoColor=white" height="45" />
       <br/><br/>
-      <i>Создание небольших мобильных приложений для платформы Android с нуля.</i>
+      <i>Мобильные приложения для платформы Android.</i>
       <br/><br/>
       <b>Стек:</b> <code>Android</code> <code>Java</code> <code>XML</code>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
-      <img src="https://img.shields.io/badge/📊_1C_Dev-f9e2af?style=for-the-badge&logoColor=4a4a4a" height="35" />
+      <img src="https://shieldcn.dev/badge/1C%20DEV-f9e2af?style=for-the-badge&logo=1c&logoColor=4a4a4a" height="45" />
       <br/><br/>
-      <i>Создание конфигураций с нуля, на встроенном языке 1С.</i>
+      <i>Разработка конфигураций и скриптов на 1С.</i>
       <br/><br/>
       <b>Стек:</b> <code>1С</code> <code>Автоматизация</code>
       <br/><br/>
