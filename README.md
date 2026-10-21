@@ -80,15 +80,18 @@
 <br/>
 
 <details>
-<summary><b>🌐 Посмотреть мои веб-проекты</b></summary>
+<summary><b> Посмотреть мои веб-проекты</b></summary>
 <br/>
 <ul>
-  <li><a href="ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ_1"><b>Название проекта 1</b></a> — краткое описание, что это и чему научилась.</li>
+  <li><a href="https://github.com/dariank/couteruly/tree/main"><b>Couteruly</b></a> — магазин одежды.</li>
+  <li><a href="https://github.com/dariank/recipefinder"><b>RecipeFinder</b></a> — платформа для поиска рецептов по ингредиентам.</li>
+  <li><a href="https://github.com/dariank/tutorplatform"><b>TutorPlatform</b></a> — платформа для поиска репетиторов.</li>
+  
 </ul>
 </details>
 
 <details>
-<summary><b>☕ Посмотреть мои Java-проекты</b></summary>
+<summary><b>Посмотреть мои Java-проекты</b></summary>
 <br/>
 <ul>
   <li><a href="ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ_2"><b>Название проекта</b></a> — краткое описание.</li>
