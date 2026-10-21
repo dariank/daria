@@ -107,10 +107,10 @@
 </details>
 
 <details>
-<summary><b>📊 Посмотреть мои проекты на 1С</b></summary>
+<summary><b>Посмотреть мои проекты на 1С</b></summary>
 <br/>
 <ul>
-  <li><i>Пока в разработке...</i></li>
+   <li><a href="https://github.com/dariank/1-shop"><b>Свдебный салон</b></a> — свадебные платья, аксессуары и примерка .</li>
 </ul>
 </details>
 
