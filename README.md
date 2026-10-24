@@ -96,7 +96,7 @@
 <summary><b>Посмотреть мои Java-проекты</b></summary>
 <br/>
 <ul>
- <li><i>Пока в разработке...</i></li>
+<li><a href="https://github.com/dariank/ScreenPet"><b>ScreenPet</b></a> — Десктопная девочка компаньон которая будет ходить по экрану.</li>
 </ul>
 </details>
 
